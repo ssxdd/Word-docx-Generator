@@ -6,7 +6,6 @@
 
 #%%
 
-from io import StringIO
 import shutil
 import pandas as pd
 import docx
